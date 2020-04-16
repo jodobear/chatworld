@@ -4,7 +4,7 @@ Dockerized chat app using flask, socketio
 
 ## Demo
 
-For demo visit [here](35.195.178.39:5000).
+For demo visit [here](http://35.195.178.39:5000).
 
 ## Installation
 
